@@ -10,4 +10,6 @@ Weijian Zhang<sup>1</sup>, Zhiwei Zhang<sup>2</sup>, Zhizhong Zhang<sup>1</sup>,
 
 
 
-The code will be released soon.
+&#x2728; The current release includes key components, such as the dataset pre-procession, the pinhole-to-fisheye projection and the wavelet-transform-based loss function. 
+
+&#x23F3; The remaining components—including the full training framework, pseudo-label generation, and sky region masking—will be released as soon as possible.
